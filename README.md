@@ -4,7 +4,7 @@ Database Name:pop
 Table Name:hello
 
 
-This is simple CRUD php project for my collage projects.
+This is a simple CRUD php project for my college projects.
 hope you like this one.
 
-you can visit my website urmil8989.online for more projects.
+You can visit my website urmil8989.online for more projects.
